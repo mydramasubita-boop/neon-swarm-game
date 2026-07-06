@@ -1,0 +1,17 @@
+{
+  "name": "NEON SWARM",
+  "short_name": "NEON SWARM",
+  "description": "Geometric Bullet Heaven — Mobile Edition",
+  "start_url": "/neon-swarm/",
+  "scope": "/neon-swarm/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a0a0f",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["games"],
+  "lang": "it"
+}
